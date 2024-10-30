@@ -1,5 +1,5 @@
 ## Hi there, I'm Tricia A. Labbao! 
-I am a dedicated student with a passion for [your field of interest or major]. Throughout my academic journey, I have focused on developing skills in critical thinking, teamwork, practicing programming.
+I am a dedicated student with a passion for Computer Studies. Throughout my academic journey, I have focused on developing skills in critical thinking, teamwork, practicing programming.
 I am a strong believer in learning and self-improvement. I always seek knowledge and skills, and I'm looking forward to making connections with people as we set out on this exciting journey together!
 
 ## Education
