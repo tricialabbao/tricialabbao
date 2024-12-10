@@ -10,8 +10,9 @@ I am a strong believer in learning and self-improvement. I always seek knowledge
 ## Certification
 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/1e3aff14febd4f159f418aec126aba32)
--  [Oracle Cloud Infrastructure 2024 Certified Foundations Associate]( https://catalog-education.oracle.com/ords/certview/sharebadge?id=2A6079A874B05436D6050884FFA4BB98225F23664751A29CA658D102678F3AF3 )
--  [Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=2A6079A874B05436D6050884FFA4BB989F6501BEA778D3459C2C1877151FF02A)
+- [Oracle Cloud Infrastructure 2024 Certified Foundations Associate]( https://catalog-education.oracle.com/ords/certview/sharebadge?id=2A6079A874B05436D6050884FFA4BB98225F23664751A29CA658D102678F3AF3 )
+- [Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2A6079A874B05436D6050884FFA4BB989F6501BEA778D3459C2C1877151FF02A) 
+
 
 
 ## Skill Sets
